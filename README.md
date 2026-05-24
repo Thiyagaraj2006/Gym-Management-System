@@ -56,5 +56,5 @@ The Gym Management System is a database-driven application designed to manage gy
 
 ##  Contact
 
-GitHub: Add your GitHub profile link
+GitHub: https://github.com/Thiyagaraj2006
 LinkedIn:https://www.linkedin.com/in/thiyagaraj-d-54578832
