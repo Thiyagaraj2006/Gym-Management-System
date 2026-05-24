@@ -1,0 +1,12 @@
+CREATE DATABASE gym_management;
+
+USE gym_management;
+
+CREATE TABLE members (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(100),
+    age INT,
+    gender VARCHAR(20),
+    phone VARCHAR(15),
+    membership_plan VARCHAR(50)
+);
